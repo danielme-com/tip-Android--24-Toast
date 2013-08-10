@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>   
+
+    <color name="toastborder">#e30000</color>
+    <color name="toastbackground">#7f817f</color>    
+
+</resources>
